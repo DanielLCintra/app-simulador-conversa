@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 var config = {
-  apiKey: 'AIzaSyDBtkUFIrxJcnWC2OozUiHaOVnRCNOK_ho',
-  authDomain: 'jn2-app-vendas.firebaseapp.com',
-  databaseURL: 'https://jn2-app-vendas.firebaseio.com',
-  projectId: 'jn2-app-vendas',
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
   storageBucket: '',
-  messagingSenderId: '83800172129'
+  messagingSenderId: ''
 }
 
 const connection = firebase.initializeApp(config)
